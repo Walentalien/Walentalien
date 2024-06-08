@@ -1,11 +1,11 @@
 
 # TO DO
-- 👋 Hi, I’m @Walentalien
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Walentyn
+- 🎓 [AGH University]( https://www.agh.edu.pl/) 
+  
+
+
+
 
 <!---
 Walentalien/Walentalien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

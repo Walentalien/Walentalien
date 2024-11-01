@@ -1,6 +1,12 @@
 
-# TO DO
-- 👋 Hi, I’m Walentyn
+<h2 align="center">👋 Hello! I'm Walentyn</h2>
+
+<p align="center">
+  <a href="https://wiki.io">todo</a> •
+  
+</p>
+
+
 - 🎓 [AGH University]( https://www.agh.edu.pl/) 
   
 

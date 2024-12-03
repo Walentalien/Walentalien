@@ -1,15 +1,22 @@
 
-<h2 align="center">👋 Hello! I'm Walentyn</h2>
-
-<p align="center">
-  <a href="https://wiki.io">todo</a> •
-  
-</p>
+<h2 align="center">👋 Hi There! I'm Walentyn</h2>
 
 
-- 🎓 [AGH University]( https://www.agh.edu.pl/) 
-  
+- 🎓  CS student at [AGH University of Krakow]( https://www.agh.edu.pl/) 
+- 📚  Currently learning [Rust Programming Language](https://www.rust-lang.org/)
+  <!-- - 🔭  I’m looking to collaborate on   // Add this later when i have ideas to collaborate on-->
+Continue later
 
+
+<h3> 🛠 Tech Stack</h3>
+
+
+<a href="https://github.com/#">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Walentalien&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walentalien&theme=buefy&layout=compact" />
+</a>
+
+<br/>
 
 
 

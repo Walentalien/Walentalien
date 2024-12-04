@@ -4,7 +4,9 @@
 
 - 🎓  CS student at [AGH University of Krakow]( https://www.agh.edu.pl/) 
 - 📚  Currently learning [Rust Programming Language](https://www.rust-lang.org/)
-  <!-- - 🔭  I’m looking to collaborate on   // Add this later when i have ideas to collaborate on-->
+  - 🔭  I’m looking to collaborate on   // Add this later when i have ideas to collaborate on: [Unix Learning App](https://www.)
+  - Passionate about OpenSource
+  - 
 Continue later
 
 

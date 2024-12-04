@@ -4,21 +4,30 @@
 
 - 🎓  CS student at [AGH University of Krakow]( https://www.agh.edu.pl/) 
 - 📚  Currently learning [Rust Programming Language](https://www.rust-lang.org/)
-  - 🔭  I’m looking to collaborate on   // Add this later when i have ideas to collaborate on: [Unix Learning App](https://www.)
-  - Passionate about OpenSource
-  - 
+-   I’m looking to collaborate on  **[Unix Learning Desktop App](https://www.)**
+- Passionate about OpenSource
+- 
 Continue later
 
 
 <h3> 🛠 Tech Stack</h3>
 
+<!--## 💡 Projects with My Work
+## 📚 Tech Articles and Talks -->
 
+<h2>💻 Open Source Work Stats</h2>
 <a href="https://github.com/#">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Walentalien&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walentalien&theme=buefy&layout=compact" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Walentalien&theme=buefy&show_icons=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walentalien&theme=buefy&layout=compact" />
 </a>
 
-<br/>
+
+
+
+
+
+
+
 
 
 

@@ -6,11 +6,16 @@
 - 📚  Currently learning [Rust Programming Language](https://www.rust-lang.org/)
 -   I’m looking to collaborate on  **[Unix Learning Desktop App](https://www.)**
 - Passionate about OpenSource
-- 
-Continue later
+  
 
 
-<h3> 🛠 Tech Stack</h3>
+<h3> 🛠 Technologies/Tools/Languages etc.</h3>
+- Rust Programming Language
+- Python
+- MySQL
+- MS SQL
+
+
 
 <!--## 💡 Projects with My Work
 ## 📚 Tech Articles and Talks -->

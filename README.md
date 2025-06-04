@@ -2,7 +2,7 @@
 
 - 🎓 CS student at [AGH University of Krakow](https://www.agh.edu.pl/)
 - 📚 Currently learning [Rust Programming Language](https://www.rust-lang.org/)
-- 🤝 Looking to collaborate on **[Unix Learning Desktop App](#)** 
+- 🤝 Looking to collaborate on **[WikiRacer](https://github.com/Walentalien/WikiRacer.git)** 
 - 💡 Passionate about Open Source
 
 ---

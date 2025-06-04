@@ -24,7 +24,7 @@ I’m a computer science student with a strong interest in systems programming, 
 
 ### 🌐 Find Me Online
 
-- 🌍 Website: [walentalien.github.io](https://walentalien.github.io/)
+- 🌍 Website: [walentalien.github.io](https://walentalien.github.io/) !UNDER CONSTRUCTION
 - 💼 LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/walentyn1)
 
 ---

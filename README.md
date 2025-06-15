@@ -35,3 +35,5 @@ I’m a computer science student with a strong interest in systems programming, 
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Walentalien&theme=buefy&show_icons=true" />
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walentalien&theme=buefy&layout=compact" />
 </a>
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/YOUR_USERNAME/YOUR_REPO&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visits&edge_flat=false)

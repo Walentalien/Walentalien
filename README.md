@@ -2,7 +2,8 @@
 
 - 🎓 CS student at [AGH University of Krakow](https://www.agh.edu.pl/)
 - 📚 Currently learning [Rust Programming Language](https://www.rust-lang.org/)
-- 🤝 Looking to collaborate on **[WikiRacer](https://github.com/Walentalien/WikiRacer.git)** 
+- 🤝 Looking to collaborate on **[WikiRacer](https://github.com/Walentalien/WikiRacer.git)**
+- Also looking to collaborate on Personal AI Assistant (private repo, available upon request) 
 - 💡 Passionate about Open Source
 
 ---

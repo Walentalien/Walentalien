@@ -1,25 +1,23 @@
 <h2 align="center">👋 Hi There! I'm Walentyn</h2>
 
 - 🎓 CS student at [AGH University of Krakow](https://www.agh.edu.pl/)
-- 📚 Currently learning [Rust Programming Language](https://www.rust-lang.org/)
-- 🤝 Looking to collaborate on **[WikiRacer](https://github.com/Walentalien/WikiRacer.git)**
-- Also looking to collaborate on Personal AI Assistant (private repo, available upon request) 
-- 💡 Passionate about Open Source
-
+- 📚 Currently learning [Rust Programming Language](https://www.rust-lang.org/) and [Kurtosis](https://docs.kurtosis.com/)
 ---
 
 ### 🧑‍💻 About Me
-
-I’m a computer science student with a strong interest in systems programming, backend development, and all things open source. My current focus is on learning Rust and building practical tools to help others learn Unix systems. I love collaborating with others and sharing knowledge through open projects.
-
----
+Working on web3 stuff.
 
 ### 🛠️ Technologies & Tools
 
 - Rust
+- Go
 - Python
-- MySQL
-- MS SQL
+- C
+- Bash
+- Docker
+- Kurtosis
+- Terraform
+- Linux (Ubuntu, Arch)
 
 ---
 

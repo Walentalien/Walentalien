@@ -25,12 +25,3 @@ Working on web3 stuff.
 
 - 🌍 Website: [walentalien.github.io](https://walentalien.github.io/) !UNDER CONSTRUCTION
 - 💼 LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/walentyn1)
-
----
-
-### 💻 Open Source Work Stats
-
-<a href="https://github.com/Walentalien">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Walentalien&theme=buefy&show_icons=true" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walentalien&theme=buefy&layout=compact" />
-</a>

@@ -14,6 +14,7 @@ Working on web3 stuff.
 - Python
 - C
 - Bash
+- Vim
 - Docker
 - Kurtosis
 - Terraform
